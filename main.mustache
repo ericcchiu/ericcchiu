@@ -1,6 +1,6 @@
-<img type="content" src="Images/GithubGoBanner.jpeg" alt-text="Banner"/>
-
 # Hi there, welcome to my Github page 👋
+
+<img type="content" src="Images/GithubGoBanner.jpeg" alt-text="Banner"/>
 
 My name is Eric and today is Thursday, May 6, 11:34 AM CDT. I am a software engineer at The Home Depot. 
 
