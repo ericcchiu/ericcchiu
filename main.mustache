@@ -12,19 +12,19 @@ Please reach out to me on linkedin <a href="https://www.linkedin.com/in/ericcchi
 
 ✨ **Programming Languages currently using**
 
-<img type="content" width="60" src="Images/javascript-ar21.svg" alt-text="JavaScript"/>
-<img type="content" width="60" src="Images/golang-ar21.svg" alt-text="Golang"/>
-<img type="content" width="60" src="Images/python-ar21.svg" alt-text="Python"/>
-<img type="content" width="60" src="Images/java-ar21.svg" alt-text="Java"/>
+<img type="content" height="50" src="Images/javascript-ar21.svg" alt-text="JavaScript"/>
+<img type="content" height="50" src="Images/golang-ar21.svg" alt-text="Golang"/>
+<img type="content" height="50" src="Images/python-ar21.svg" alt-text="Python"/>
+<img type="content" height="50" src="Images/java-ar21.svg" alt-text="Java"/>
 
 &nbsp;
 
 :books: **Databases**
 
-<img type="content" width="60" src="Images/postgresql-ar21.svg" alt-text="PostgreSQL" />
-<img type="content" width="60" src="Images/sqlite-ar21.svg" alt-text="Sqlite" />
-<img type="content" width="60" src="Images/mysql-ar21.svg" alt-text="MySQL" />
-<img type="content" width="60" src="Images/mongodb-ar21.svg" alt-text="MongoDB" />
+<img type="content" height="50" src="Images/postgresql-ar21.svg" alt-text="PostgreSQL" />
+<img type="content" height="50" src="Images/sqlite-ar21.svg" alt-text="Sqlite" />
+<img type="content" height="50" src="Images/mysql-ar21.svg" alt-text="MySQL" />
+<img type="content" height="50" src="Images/mongodb-ar21.svg" alt-text="MongoDB" />
 
 <!--
 **ericcchiu/ericcchiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
