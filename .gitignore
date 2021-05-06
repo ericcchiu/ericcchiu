@@ -1,5 +1,2 @@
 # Node Modules
 node_modules/
-
-# Package JSON lock
-package-lock.json
