@@ -22,12 +22,26 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout current repository to Main Branch
+      uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm run build --if-present
+    - name: Cache dependencies and build output to improve workflow execution time.
+      uses: actions/cache@v2
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+    - name: Install dependencies and compile index.js
+      run: npm run build --if-present
+    - name: Publish to Git
+      uses: seanmiddleditch/gha-publish-to-git@v2
+      with:
+        branch: main
+        commit_message: (workflow) Publish and update README.md
+        github_token: '${{secrets.GITHUB_TOKEN}}'
+        github_pat: '${{secrets.PAT_TOKEN}}'
     # - run: npm install
     # - run: npm ci
     # - run: node index.js
