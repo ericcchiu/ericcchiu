@@ -1,8 +1,8 @@
-# Hi there, welcome to my Github page 👋
+# Hello there, welcome to my Github page 👋
 
 <img type="content" src="Images/GithubGoBanner.jpeg" alt-text="Banner"/>
 
-My name is Eric and today is Tuesday, May 18, 7:30 PM CDT. I am a software engineer at The Home Depot.
+My name is Eric and today is Tuesday, May 18, 9:08 PM CDT. I am a software engineer at The Home Depot.
 
 Please reach out to me on linkedin <a href="https://www.linkedin.com/in/ericcchiu/">
   <img align="left" alt="Eric's Linkedin" width="22px" src="Images/icons/linkedin-icon.svg" />
