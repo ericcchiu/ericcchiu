@@ -2,7 +2,7 @@
 
 <img type="content" src="Images/GithubGoBanner.jpeg" alt-text="Banner"/>
 
-My name is Eric and today is Wednesday, June 16, 7:12 AM CDT. I am a software engineer at The Home Depot.
+My name is Eric and today is Wednesday, June 16, 1:57 PM CDT. I am a software engineer at The Home Depot.
 
 Please reach out to me on linkedin <a href="https://www.linkedin.com/in/ericcchiu/">
   <img align="left" alt="Eric's Linkedin" width="22px" src="Images/icons/linkedin-icon.svg" />
@@ -17,9 +17,7 @@ Please reach out to me on linkedin <a href="https://www.linkedin.com/in/ericcchi
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcchiu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
-  <a href="https://github.com/ericcchiu/ericcchiu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericcchiu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcchiu&layout=compact&langs_count=8)](https://github.com/ericcchiu/github-readme-stats)
 </div>
 
 
