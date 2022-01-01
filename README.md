@@ -2,7 +2,7 @@
 
 <img type="content" src="Images/GithubGoBanner.jpeg" alt-text="Banner"/>
 
-My name is Eric and today is Friday, December 31, 6:33 PM CST. I am a software engineer at The Home Depot.
+My name is Eric and today is Saturday, January 1, 6:13 AM CST. I am a software engineer at The Home Depot.
 
 Please reach out to me on linkedin <a href="https://www.linkedin.com/in/ericcchiu/">
   <img align="left" alt="Eric's Linkedin" width="22px" src="Images/icons/linkedin-icon.svg" />
